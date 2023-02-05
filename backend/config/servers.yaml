@@ -1,0 +1,15 @@
+server1:
+    #hostname: server1.your-domain.com
+    hostname: server1.proyecto1.com
+    active: true
+server2:
+    #hostname: server2.your-domain.com
+    hostname: server2.proyecto2.com
+    active: true
+server3:
+    hostname: server3.proyecto3.com
+    active: true
+server4:
+    hostname: server4.proyecto4.com
+    active: true
+
